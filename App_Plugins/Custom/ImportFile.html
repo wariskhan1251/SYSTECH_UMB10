@@ -1,0 +1,91 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+
+</head>
+<body>
+   
+    <form id="files" method="post" enctype="multipart/form-data">
+        <h1>Import Applications data by using excelsheet</h1>
+        <span style="width:100%;float:left;padding:4% 0 2% 0;">
+            <input id="FileUpload1" name="file" type="file" />
+        </span>
+        <span  style="width:100%;float:left;padding:0 0 2% 0;">
+            <input type="radio" name="rbnNumber" value="1" checked /> Import SOM Applications
+        </span>
+        <span  style="width:100%;float:left;padding:0 0 2% 0;">
+            <input type="radio" name="rbnNumber" value="2" /> Import Treeworks Applications
+        </span>
+        <button style="width:auto;float:left;background-color:dodgerblue;color:#fff;padding:7px 10px 5px 10px;margin:0;box-sizing:border-box;">Start Import</button>
+    </form>
+
+
+</body>
+</html>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $("form#files").submit(function () {
+   
+            var checkboxval = $('input[name=rbnNumber]:checked').val();
+          /////  alert(selValue);
+
+            if (window.FormData !== undefined) {
+
+                var fileUpload = $("#FileUpload1").get(0);
+                var files = fileUpload.files;
+                                
+                // Create FormData object  
+                var fileData = new FormData();
+
+                // Looping over all files and add it to FormData object  
+                for (var i = 0; i < files.length; i++) {
+                    fileData.append(files[i].name, files[i]);
+                }
+
+                // Adding one more key to FormData object  
+                fileData.append('checkboxvalue', checkboxval);
+
+                $.ajax({
+                    url: '/umbraco/Surface/ImportData/UploadFiles',
+                    type: "POST",
+                    contentType: false, 
+                    processData: false,  
+                    data: fileData,
+                }).done(function (data) {
+
+                    alert(data);
+
+                }).error(function () { alert("Failure"); });
+            }
+       
+           
+        });
+
+    });
+
+    //function AajaxCallToContact() {
+
+    //    var urls = "/admin/Surface/Contactus/GetUserData";
+    //    $.ajax({
+    //        url: urls,
+    //        type: "POST",
+
+    //    }).done(function (Result) {
+
+    //        var finaldata = "<thead><tr><th>First Name</th><th>Last Name</th><th>Email</th><th>Message</th></tr></thead><tbody>";
+    //        for (i = 0; i < Result.length; i++) {
+
+    //            finaldata = finaldata + "<tr><td>" + Result[i].FirstName + "</td><td>" + Result[i].LastName + "</td><td>" + Result[i].Email + "</td><td>" + Result[i].Message + "</td></tr>";
+    //        }
+
+    //        finaldata = finaldata + "</tbody>";
+    //        $("#myTable").append(finaldata);
+
+    //    }).error(function () { alert("Failure"); });
+    //}
+</script>

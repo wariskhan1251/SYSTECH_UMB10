@@ -1,0 +1,359 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <style>
+        .main-section {
+            width: 100%;
+            float: left;
+            margin: 0 0 20px 0;
+            padding: 20px 20px;
+            border: 1px solid #efeeee;
+            box-sizing: border-box;
+        }
+
+            .main-section h2 {
+                width: 100%;
+                float: left;
+                box-sizing: border-box;
+                padding: 0 0 7px 0px;
+                margin: 0 0 15px 0;
+                font-size: 25px;
+                font-family: 'Bitter', serif;
+                font-weight: 700;
+                color: #000;
+                border-bottom: solid 7px #ff9a00;
+            }
+
+
+            .main-section div {
+                width: 100%;
+                float: left;
+                margin: 0;
+                padding: 0 0 20px 0px;
+                box-sizing: border-box;
+                height: 50px !important;
+            }
+
+            .main-section label {
+                width: 27.40%;
+                float: left;
+                font-weight: normal;
+                font-family: 'Calibri';
+                font-style: normal;
+                font-size: 16px;
+                color: #333;
+                padding: 7px 0 0 0;
+                margin: 0;
+            }
+
+        {
+            width: 17.40%;
+            float: left;
+            font-weight: normal;
+            font-family: "metamedium";
+            font-style: normal;
+            font-size: 15px;
+            color: #000000;
+            padding: 7px 0 0 0;
+            margin: 0;
+        }
+
+        .main-section input[type="text"] {
+            font-weight: normal;
+            font-family: 'Calibri';
+            font-style: normal;
+            font-size: 15px;
+            color: #000000;
+            padding: 7px 0 7px 10px;
+            margin: 0;
+            border: solid 1px #ccc;
+            float: left;
+            line-height: normal !important;
+            width: 50%;
+        }
+
+        .main-section input[type="date"] {
+            font-weight: normal;
+            font-family: 'Calibri';
+            font-style: normal;
+            font-size: 15px;
+            color: #000000;
+            padding: 7px 0 7px 10px;
+            margin: 0;
+            border: solid 1px #ccc;
+            float: left;
+            line-height: normal !important;
+            width: 23%;
+            margin: 0 2.2% 0 0;
+        }
+
+        .main-section input[type="time"] {
+            font-weight: normal;
+            font-family: 'Calibri';
+            font-style: normal;
+            font-size: 15px;
+            color: #000000;
+            padding: 7px 0 7px 10px;
+            margin: 0;
+            border: solid 1px #ccc;
+            float: left;
+            line-height: normal !important;
+            width: 23.4%;
+        }
+
+        .main-section input[type="checkbox"] {
+            font-weight: normal;
+            font-family: 'Calibri';
+            font-style: normal;
+            font-size: 15px;
+            color: #000000;
+            padding: 7px 0 7px 10px;
+            margin: 0;
+            border: solid 1px #ccc;
+            float: left;
+            line-height: normal !important;
+            width: auto;
+            -ms-transform: scale(2);
+            margin: 5px 0 0 6px;
+            -moz-transform: scale(2);
+            -webkit-transform: scale(2);
+            -o-transform: scale(2);
+        }
+
+        .main-section input:focus[type="text"] {
+            outline: none;
+            border-color: #ccc;
+            box-shadow: 0 0 5px #ccc;
+        }
+
+        .main-section input:focus[type="time"] {
+            outline: none;
+            border-color: #ccc;
+            box-shadow: 0 0 5px #ccc;
+        }
+
+        .main-section input:focus[type="date"] {
+            outline: none;
+            border-color: #ccc;
+            box-shadow: 0 0 5px #ccc;
+        }
+
+
+        .btn {
+            width: auto;
+            margin: 0px 0px 0 27.40%;
+            position: relative;
+            color: #343434;
+            height: auto;
+            padding: 1% 2%;
+            text-align: center;
+            background-color: #ccc;
+            font-family: 'Calibri';
+            font-weight: 600;
+            font-style: normal;
+            font-size: 16px;
+            box-sizing: border-box;
+            float: left;
+            border: solid 1px #ccc;
+            cursor: pointer;
+            color: #817a7a;
+        }
+
+            .btn:hover {
+                color: #fff;
+                background-color: #817a7a;
+                border: solid 1px #817a7a;
+            }
+    </style>
+
+</head>
+<body>
+
+    <div class="main-section">
+        <div>
+            <label>   From Date:</label>
+            <input type="date" min="2010-01-01" max="2030-01-01" id="fromdate" />
+        </div>
+        <div>
+            <label> To Date:</label>
+            <input type="date" min="2010-01-01" max="2030-01-01" id="todate" />
+        </div>
+        <div>
+            <label>   Download for all Dates </label>
+            <input type="checkbox" id="chkDownloadAll" />
+        </div>
+        <div>
+            <label>Download</label>
+            <select id="drpSelectPage">
+
+                <!--<option value="2">Newsletter</option>-->
+                <!-- <option value="3">Solicitors Pack</option>-->
+
+            </select>
+        </div>
+        <div>
+
+        </div>
+
+
+        <input class="btn" type="button" id="btnExport" value="Export data into Excel" />
+
+
+
+      
+
+    </div>
+
+    <div class="main-section">
+
+        <div>
+            <label>   Download for all Dates </label>
+            <input type="checkbox" id="chkDownloadAllApp" />
+        </div>
+        <div>
+            <label>Download</label>
+            <select id="drpSelectPageNode">
+                <option value="2">SOM Application</option>
+                <option value="3">Applications for tree works</option>
+                <option value="4">Applications Enquiry</option>
+                <option value="5">Information for solicitors</option>
+                <option value="6">Paperless Campaign</option>
+            </select>
+        </div>
+        <div>
+
+        </div>
+
+
+        <input class="btn" type="button" id="btnExportdatainToExcel" value="Export" />
+
+    </div>
+
+
+</body>
+</html>
+
+
+
+
+
+<script type="text/javascript">
+    //var dropdownvalue = '1';
+    $(document).ready(function () {
+        loadDrpDown();
+        $('#showRequired').hide();
+        //$(document).on("change", "#drpSelectPage", function () {
+        //    var dropdownvalue = this.value;
+
+        //    if (this.value == "2" || this.value == "3" || this.value == "4" || this.value == "6") {
+        //        $('#showRequired').hide();
+        //    } else {
+        //        $('#showRequired').show();
+        //        //alert(dropdownvalue)
+        //        loadcompetitions(dropdownvalue)
+        //    }
+
+        //});
+
+        document.getElementById("todate").valueAsDate = new Date();
+        var days = 7;
+        var date = new Date();
+        var res = date.setTime(date.getTime() - (days * 24 * 60 * 60 * 1000));
+        document.getElementById("fromdate").valueAsDate = new Date(res);
+
+        //loadcompetitions(dropdownvalue);
+
+    });
+
+
+    $("#btnExportdatainToExcel").click(function (e) {
+        var drpSelectPageNodeName = $("#drpSelectPageNode option:selected").text();
+        var chkDownloadAllApplications = $("#chkDownloadAllApp").is(':checked');
+        AjaxcalltoApplication(drpSelectPageNodeName, chkDownloadAllApplications);
+        
+    });
+
+    $("#btnExport").click(function (e) {
+        var fromdate = $("#fromdate").val();
+        var todate = $("#todate").val();
+        var chkDownloadAll = $("#chkDownloadAll").is(':checked');
+        var drpSelectPage = $('select[id=drpSelectPage]').val()
+        //var drpSelectPageName = $('select[id=drpSelectPage]').text()
+        // var ddlcompetition = $('select[id=ddlcompetition]').val()
+        var drpSelectPageName = $("#drpSelectPage option:selected").text();
+        var drpSelectPageType = $('#drpSelectPage option:selected').attr('id');
+
+        AajaxCallToCompetitions(fromdate, todate, chkDownloadAll, drpSelectPage, drpSelectPageName, drpSelectPageType);
+    });
+
+    function AajaxCallToCompetitions(fromdate, todate, chkDownloadAll, drpSelectPage, drpSelectPageName, drpSelectPageType) {
+
+
+        window.open('/umbraco/Surface/DownloadExcel/DownloadExcelSheet?fromdate=' + fromdate + '&todate=' + todate + '&chkDownloadAll=' + chkDownloadAll + '&drpSelectPage=' + drpSelectPage + '&drpSelectPageName=' + drpSelectPageName + '&drpSelectPageType=' + drpSelectPageType + '');
+
+        return;
+
+
+
+        var urls = "/umbraco/Surface/Competition/GetCompetitionsUsers";
+        $.ajax({
+            url: urls,
+            type: "GET",
+            data: { fromdate: fromdate, todate: todate, chkDownloadAll: chkDownloadAll, drpSelectPage: drpSelectPage, ddlcompetition: ddlcompetition }
+
+
+        }).done(function (data) {
+            ////window.location = "/umbraco/Surface/Competition/GetCompetitionsUsers";
+            //var Result = JSON.parse(data);
+
+            //var finaldata = "<thead><tr><th>Competition</th><th>CompetitionIdFromCMS</th><th>First Name</th><th>Last Name</th><th>Email</th><th>Mobile</th><th>ToHearMore</th><th>RegisterNewsLetter</th><th>Qus</th><th>Ans1</th><th>Ans2</th><th>Ans3</th><th>Ans4</th></tr></thead><tbody>";
+
+            //for (i = 0; i < Result.length; i++) {
+
+            //    finaldata = finaldata + "<tr><td>" + Result[i].Competition + "</td><td>" + Result[i].CompetitionIdFromCMS + "</td><td>" + Result[i].FirstName + "</td><td>" + Result[i].Lastname + "</td><td>" + Result[i].Email + "</td><td>" + Result[i].Mobile + "</td><td>" + Result[i].ToHearMore + "</td><td>" + Result[i].RegisterNewsLetter + "</td><td>" + Result[i].Qus + "</td><td>" + Result[i].Ans1 + "</td><td>" + Result[i].Ans2 + "</td><td>" + Result[i].Ans3 + "</td><td>" + Result[i].Ans4 + "</td></tr>";
+
+            //}
+
+            //finaldata = finaldata + "</tbody>";
+            //$("#myTable").append(finaldata);
+
+
+        }).error(function () { alert("Failure"); });
+    }
+
+
+    function AjaxcalltoApplication(drpSelectPageNodeName, chkDownloadAllApplications) {
+
+        window.open('/umbraco/Surface/DownloadExcel/DownloadExcelSheetSOMAndApplicationTreeWorks?pdrpSelectPageNodeName=' + drpSelectPageNodeName + '&pchkDownloadAllApplications=' + chkDownloadAllApplications+ '');
+
+        return;
+
+    }
+
+    function loadDrpDown() {
+
+        var urls = "/umbraco/Surface/DownloadExcel/CalltoGetChilds";
+        $.ajax({
+            url: urls,
+            type: "GET"
+        }).done(function (data) {
+
+            //var Result = JSON.parse(data);
+            if (data != "false") {
+                var finaldata = "";
+                for (i = 0; i < data.length; i++) {
+
+                    finaldata = finaldata + "<option id='" + data[i].DocumentType + "' value='" + data[i].PageId + "'>" + data[i].PageName + "</option>";
+
+                }
+
+                $("#drpSelectPage").html(finaldata);
+            }
+
+        }).error(function () { alert("Failure"); });
+    }
+
+</script>

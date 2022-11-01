@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjb19jbGllbnQvdHJlZS90cmVlaWNvbnMuY3NzOy91bWJyYWNvL2xpYi9ib290c3RyYXAtc29jaWFsL2Jvb3RzdHJhcC1zb2NpYWwuY3NzOy91bWJyYWNvL2xpYi9mb250LWF3ZXNvbWUvY3NzL2ZvbnQtYXdlc29tZS5taW4uY3NzOw" file="E:\DulwichEstate-Umbraco-V7-14-MPY2020-2021\DulwichEstate-Umbraco\App_Data\TEMP\ClientDependency\520488375_99a2109f21d84f82ad88fffecdca80bc.cdC" compression="gzip" version="520488375">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco_client/tree/treeicons.css" />
+      <file name="/umbraco/lib/bootstrap-social/bootstrap-social.css" />
+      <file name="/umbraco/lib/font-awesome/css/font-awesome.min.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLzEuMS41L2FuZ3VsYXIubWluLmpzOy91bWJyYWNvL2xpYi91bmRlcnNjb3JlL3VuZGVyc2NvcmUtbWluLmpzOy91bWJyYWNvL2xpYi9tb21lbnQvbW9tZW50Lm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpL2pxdWVyeS11aS5taW4uanM7L3VtYnJhY28vbGliL2pxdWVyeS11aS10b3VjaC1wdW5jaC9qcXVlcnkudWkudG91Y2gtcHVuY2guanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvMS4xLjUvYW5ndWxhci1jb29raWVzLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLW1vYmlsZS5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLXNhbml0aXplLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci9hbmd1bGFyLXVpLXNvcnRhYmxlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWR5bmFtaWMtbG9jYWxlL3RtaER5bmFtaWNMb2NhbGUubWluLmpzOy91bWJyYWNvL2xpYi9uZy1maWxlLXVwbG9hZC9uZy1maWxlLXVwbG9hZC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS9hbmd1bGFyLWxvY2FsLXN0b3JhZ2UubWluLmpzOy91bWJyYWNvL2xpYi9ib290c3RyYXAvanMvYm9vdHN0cmFwLjIuMy4yLm1pbi5qczsvdW1icmFjby9saWIvYm9vdHN0cmFwLXRhYmRyb3AvYm9vdHN0cmFwLXRhYmRyb3AuanM7L3VtYnJhY28vbGliL3VtYnJhY28vRXh0ZW5zaW9ucy5qczsvdW1icmFjby9saWIvdW1icmFjby9OYW1lc3BhY2VNYW5hZ2VyLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL0xlZ2FjeVVtYkNsaWVudE1nci5qczsvdW1icmFjby9saWIvdW1icmFjby9MZWdhY3lTcGVlY2hCdWJibGUuanM7L3VtYnJhY28vanMvYXBwLmpzOy91bWJyYWNvL2pzL3VtYnJhY28ucmVzb3VyY2VzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uZGlyZWN0aXZlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmZpbHRlcnMuanM7L3VtYnJhY28vanMvdW1icmFjby5zZXJ2aWNlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLnNlY3VyaXR5LmpzOy91bWJyYWNvL2pzL3VtYnJhY28uY29udHJvbGxlcnMuanM7L3VtYnJhY28vanMvcm91dGVzLmpzOy91bWJyYWNvL2pzL2luaXQuanM7L0FwcF9QbHVnaW5zL0FuYWx5dGljcy9saWIvY2hhcnRqcy9DaGFydC5qczsvQXBwX1BsdWdpbnMvQW5hbHl0aWNzL2xpYi9hbmd1bGFyLWNoYXJ0anMvYW5ndWxhci1jaGFydGpzLmpzOy9BcHBfUGx1Z2lucy9BbmFseXRpY3MvbGliL2FuZ2xlcy9hbmdsZXMuanM7L0FwcF9QbHVnaW5zL0FuYWx5dGljcy9saWIvYWNjb3VudGluZ2pzL2FjY291bnRpbmcuanM7L0FwcF9QbHVnaW5zL0FuYWx5dGljcy9saWIvbW9tZW50anMvbW9tZW50LmpzOy9BcHBfUGx1Z2lucy9BbmFseXRpY3MvbGliL2RhdGVyYW5nZXBpY2tlci9kYXRlcmFuZ2VwaWNrZXIuanM7" file="E:\DulwichEstate-Umbraco-V7-14-MPY2020-2021\DulwichEstate-Umbraco\App_Data\TEMP\ClientDependency\520488375_48652c2441514a6ba54b2c1d6a6b78e5.cdJ" compression="gzip" version="520488375">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular.min.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/moment/moment.min.js" />
+      <file name="/umbraco/lib/jquery-ui/jquery-ui.min.js" />
+      <file name="/umbraco/lib/jquery-ui-touch-punch/jquery.ui.touch-punch.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-cookies.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-mobile.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-sanitize.min.js" />
+      <file name="/umbraco/lib/angular/angular-ui-sortable.js" />
+      <file name="/umbraco/lib/angular-dynamic-locale/tmhDynamicLocale.min.js" />
+      <file name="/umbraco/lib/ng-file-upload/ng-file-upload.min.js" />
+      <file name="/umbraco/lib/angular-local-storage/angular-local-storage.min.js" />
+      <file name="/umbraco/lib/bootstrap/js/bootstrap.2.3.2.min.js" />
+      <file name="/umbraco/lib/bootstrap-tabdrop/bootstrap-tabdrop.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacyUmbClientMgr.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.security.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/App_Plugins/Analytics/lib/chartjs/Chart.js" />
+      <file name="/App_Plugins/Analytics/lib/angular-chartjs/angular-chartjs.js" />
+      <file name="/App_Plugins/Analytics/lib/angles/angles.js" />
+      <file name="/App_Plugins/Analytics/lib/accountingjs/accounting.js" />
+      <file name="/App_Plugins/Analytics/lib/momentjs/moment.js" />
+      <file name="/App_Plugins/Analytics/lib/daterangepicker/daterangepicker.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL0FuYWx5dGljcy9saWIvYW5ndWxhci10YWJsZXNvcnQvYW5ndWxhci10YWJsZXNvcnQuanM7L0FwcF9QbHVnaW5zL0FuYWx5dGljcy9iYWNrb2ZmaWNlL2FuYWx5dGljc3RyZWUvZmlsdGVycy9jdXJyZW5jeS5maWx0ZXIuanM7L0FwcF9QbHVnaW5zL0FuYWx5dGljcy9iYWNrb2ZmaWNlL2FuYWx5dGljc3RyZWUvY29udHJvbGxlcnMvdmlldy5jb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9BbmFseXRpY3MvYmFja29mZmljZS9hbmFseXRpY3N0cmVlL2NvbnRyb2xsZXJzL2VkaXQuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvQW5hbHl0aWNzL2JhY2tvZmZpY2UvYW5hbHl0aWNzdHJlZS9jb250cm9sbGVycy9zZXR0aW5ncy5jb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9BbmFseXRpY3MvYmFja29mZmljZS9hbmFseXRpY3N0cmVlL2NvbnRyb2xsZXJzL2Jyb3dzZXIuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvQW5hbHl0aWNzL2JhY2tvZmZpY2UvYW5hbHl0aWNzdHJlZS9jb250cm9sbGVycy9sYW5ndWFnZS5jb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9BbmFseXRpY3MvYmFja29mZmljZS9hbmFseXRpY3N0cmVlL2NvbnRyb2xsZXJzL2NvdW50cnkuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvQW5hbHl0aWNzL2JhY2tvZmZpY2UvYW5hbHl0aWNzdHJlZS9jb250cm9sbGVycy9kZXZpY2UuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvQW5hbHl0aWNzL2JhY2tvZmZpY2UvYW5hbHl0aWNzdHJlZS9jb250cm9sbGVycy9zY3JlZW5yZXMuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvQW5hbHl0aWNzL2JhY2tvZmZpY2UvYW5hbHl0aWNzdHJlZS9jb250cm9sbGVycy9vcy5jb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9BbmFseXRpY3MvYmFja29mZmljZS9hbmFseXRpY3N0cmVlL2NvbnRyb2xsZXJzL3NvY2lhbC5jb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9BbmFseXRpY3MvYmFja29mZmljZS9hbmFseXRpY3N0cmVlL2NvbnRyb2xsZXJzL2tleXdvcmQuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvQW5hbHl0aWNzL2JhY2tvZmZpY2UvYW5hbHl0aWNzdHJlZS9jb250cm9sbGVycy9wYWdldmlld3MuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvQW5hbHl0aWNzL2JhY2tvZmZpY2UvYW5hbHl0aWNzdHJlZS9jb250cm9sbGVycy9kYXNoYm9hcmQuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvQW5hbHl0aWNzL2JhY2tvZmZpY2UvYW5hbHl0aWNzdHJlZS9jb250cm9sbGVycy9lY29tbWVyY2UuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvQW5hbHl0aWNzL2JhY2tvZmZpY2UvYW5hbHl0aWNzdHJlZS9jb250cm9sbGVycy90cmFuc2FjdGlvbi5jb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9BbmFseXRpY3MvYmFja29mZmljZS9hbmFseXRpY3N0cmVlL2NvbnRyb2xsZXJzL3Byb2R1Y3RwZXJmb3JtYW5jZS5jb250cm9sbGVyLmpzOw" file="E:\DulwichEstate-Umbraco-V7-14-MPY2020-2021\DulwichEstate-Umbraco\App_Data\TEMP\ClientDependency\520488375_2e4a6486218c4c6f9f78e5c60c853d6c.cdJ" compression="gzip" version="520488375">
+    <files>
+      <file name="/App_Plugins/Analytics/lib/angular-tablesort/angular-tablesort.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/filters/currency.filter.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/controllers/view.controller.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/controllers/edit.controller.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/controllers/settings.controller.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/controllers/browser.controller.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/controllers/language.controller.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/controllers/country.controller.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/controllers/device.controller.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/controllers/screenres.controller.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/controllers/os.controller.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/controllers/social.controller.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/controllers/keyword.controller.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/controllers/pageviews.controller.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/controllers/dashboard.controller.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/controllers/ecommerce.controller.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/controllers/transaction.controller.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/controllers/productperformance.controller.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL0FuYWx5dGljcy9saWIvZGF0ZXJhbmdlcGlja2VyL2RhdGVyYW5nZXBpY2tlci1iczIuY3NzOy9BcHBfUGx1Z2lucy9BbmFseXRpY3MvbGliL2FuZ3VsYXItdGFibGVzb3J0L3RhYmxlc29ydC5jc3M7L0FwcF9QbHVnaW5zL0FuYWx5dGljcy9jc3MvYW5hbHl0aWNzLmNzczs" file="E:\DulwichEstate-Umbraco-V7-14-MPY2020-2021\DulwichEstate-Umbraco\App_Data\TEMP\ClientDependency\520488375_1405858ce778419bb21455d4d790b56e.cdC" compression="gzip" version="520488375">
+    <files>
+      <file name="/App_Plugins/Analytics/lib/daterangepicker/daterangepicker-bs2.css" />
+      <file name="/App_Plugins/Analytics/lib/angular-tablesort/tablesort.css" />
+      <file name="/App_Plugins/Analytics/css/analytics.css" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL0FuYWx5dGljcy9iYWNrb2ZmaWNlL2FuYWx5dGljc3RyZWUvY29udHJvbGxlcnMvc2FsZXNwZXJmb3JtYW5jZS5jb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9BbmFseXRpY3MvYmFja29mZmljZS9hbmFseXRpY3N0cmVlL3Jlc291cmNlcy9zZXR0aW5ncy5yZXNvdXJjZS5qczsvQXBwX1BsdWdpbnMvQW5hbHl0aWNzL2JhY2tvZmZpY2UvYW5hbHl0aWNzdHJlZS9yZXNvdXJjZXMvc3RhdHMucmVzb3VyY2UuanM7L0FwcF9QbHVnaW5zL0FuYWx5dGljcy9iYWNrb2ZmaWNlL2FuYWx5dGljc3RyZWUvZGlyZWN0aXZlcy9kYXRlcmFuZ2VwaWNrZXIuZGlyZWN0aXZlLmpzOy9BcHBfUGx1Z2lucy9BbmFseXRpY3MvYmFja29mZmljZS9hbmFseXRpY3N0cmVlL3NlcnZpY2VzL2RhdGVyYW5nZS5zZXJ2aWNlLmpzOy9BcHBfUGx1Z2lucy9MZUJsZW5kZXIvQ29tbW9uL1NlcnZpY2VzL3JlcXVlc3RIZWxwZXIuU2VydmljZS5qczsvQXBwX1BsdWdpbnMvTGVCbGVuZGVyL0NvbW1vbi9GaWx0ZXIvT3JkZXJPYmplY3RCeS5maWx0ZXIuanM7L0FwcF9QbHVnaW5zL0xlQmxlbmRlci9Db21tb24vRGlyZWN0aXZlL0xheWVyc1Jlc2l6YWJsZURyYWdnYWJsZS5qczsvQXBwX1BsdWdpbnMvTGVCbGVuZGVyL0NvbW1vbi9EaXJlY3RpdmUvYmxlbmRlcmVkaXRvcndyYXBwZXIuanM7L0FwcF9QbHVnaW5zL0xlQmxlbmRlci9Db21tb24vRGlyZWN0aXZlL3Byb3BlcnR5Z3JpZGVkaXRvcndyYXBwZXIuanM7L0FwcF9QbHVnaW5zL0xlQmxlbmRlci9CYWNrb2ZmaWNlL0dyaWRFZGl0b3JNYW5hZ2VyL2VkaXQuanM7L0FwcF9QbHVnaW5zL0xlQmxlbmRlci9CYWNrb2ZmaWNlL0dyaWRFZGl0b3JNYW5hZ2VyL2RlbGV0ZS5qczsvQXBwX1BsdWdpbnMvTGVCbGVuZGVyL0JhY2tvZmZpY2UvR3JpZEVkaXRvck1hbmFnZXIvc29ydC5qczsvQXBwX1BsdWdpbnMvTGVCbGVuZGVyL2VkaXRvcnMvbGVibGVuZGVyZWRpdG9yL2xlYmxlbmRlcnByb3BlcnRpZXMuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvTGVCbGVuZGVyL2VkaXRvcnMvbGVibGVuZGVyZWRpdG9yL2xlYmxlbmRlcmVkaXRvci5jb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9MZUJsZW5kZXIvZWRpdG9ycy9sZWJsZW5kZXJlZGl0b3IvZGlhbG9ncy9wYXJhbWV0ZXJjb25maWcucHJldmFsdWVzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL0xlQmxlbmRlci9lZGl0b3JzL2xlYmxlbmRlcmVkaXRvci9kaWFsb2dzL3BhcmFtZXRlcmNvbmZpZy5jb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9Nb2RlbHNCdWlsZGVyL21vZGVsc2J1aWxkZXIuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvTW9kZWxzQnVpbGRlci9tb2RlbHNidWlsZGVyLnJlc291cmNlLmpzOy91bWJyYWNvL2RldmVsb3Blci9SZWxhdGlvblR5cGVzL1RyZWVNZW51L0FjdGlvbkRlbGV0ZVJlbGF0aW9uVHlwZS5qczsvdW1icmFjby9kZXZlbG9wZXIvUmVsYXRpb25UeXBlcy9UcmVlTWVudS9BY3Rpb25OZXdSZWxhdGlvblR5cGUuanM7" file="E:\DulwichEstate-Umbraco-V7-14-MPY2020-2021\DulwichEstate-Umbraco\App_Data\TEMP\ClientDependency\520488375_404dd1c26d5c4776aa83fcebf918c9f7.cdJ" compression="gzip" version="520488375">
+    <files>
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/controllers/salesperformance.controller.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/resources/settings.resource.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/resources/stats.resource.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/directives/daterangepicker.directive.js" />
+      <file name="/App_Plugins/Analytics/backoffice/analyticstree/services/daterange.service.js" />
+      <file name="/App_Plugins/LeBlender/Common/Services/requestHelper.Service.js" />
+      <file name="/App_Plugins/LeBlender/Common/Filter/OrderObjectBy.filter.js" />
+      <file name="/App_Plugins/LeBlender/Common/Directive/LayersResizableDraggable.js" />
+      <file name="/App_Plugins/LeBlender/Common/Directive/blendereditorwrapper.js" />
+      <file name="/App_Plugins/LeBlender/Common/Directive/propertygrideditorwrapper.js" />
+      <file name="/App_Plugins/LeBlender/Backoffice/GridEditorManager/edit.js" />
+      <file name="/App_Plugins/LeBlender/Backoffice/GridEditorManager/delete.js" />
+      <file name="/App_Plugins/LeBlender/Backoffice/GridEditorManager/sort.js" />
+      <file name="/App_Plugins/LeBlender/editors/leblendereditor/leblenderproperties.controller.js" />
+      <file name="/App_Plugins/LeBlender/editors/leblendereditor/leblendereditor.controller.js" />
+      <file name="/App_Plugins/LeBlender/editors/leblendereditor/dialogs/parameterconfig.prevalues.controller.js" />
+      <file name="/App_Plugins/LeBlender/editors/leblendereditor/dialogs/parameterconfig.controller.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.controller.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.resource.js" />
+      <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionDeleteRelationType.js" />
+      <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionNewRelationType.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL0FyY2hldHlwZS9qcy9hcmNoZXR5cGUuanM7" file="E:\DulwichEstate-Umbraco-V7-14-MPY2020-2021\DulwichEstate-Umbraco\App_Data\TEMP\ClientDependency\520488375_4dfabed8783448ea81d67a77182ed896.cdJ" compression="gzip" version="520488375">
+    <files>
+      <file name="/App_Plugins/Archetype/js/archetype.js" />
+    </files>
+  </item>
+</map>
